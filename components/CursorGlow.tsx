@@ -21,7 +21,7 @@ export default function CursorGlow() {
     if (!glow) return;
 
     // Text Flag effect (github.com/tholman/cursor-effects)
-    const flag = new textFlag({
+    const flag = new (textFlag as any)({
       text: "Full-Stack Developer",
       color: "#D9B26A",
       font: "monospace",
