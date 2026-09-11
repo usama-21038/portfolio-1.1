@@ -12,7 +12,7 @@ export const projects: Project[] = [
     title: "Smart Car Parking & Sharing",
     description:
       "A location-based system that finds nearby parking spots in real time and lets owners share unused space with other drivers.",
-    tags: ["Next.js", "Express.js", "PostgreSQL", "REST API"],
+    tags: ["Next.js","TypeScript", "Express.js", "PostgreSQL", "REST API"],
     status: "Live",
     image:
       "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Dark%20themed%20web%20dashboard%20for%20smart%20car%20parking%20app%2C%20city%20map%20view%20with%20green%20location%20pins%20marking%20available%20parking%20spots%2C%20sidebar%20with%20search%20filters%2C%20sleek%20modern%20SaaS%20interface%2C%20professional%20UI%20design%2C%20high%20fidelity&image_size=landscape_16_9",
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     title: "Healthcare Management System",
     description:
       "Manages patient records, appointment scheduling, and staff workflows for a clinic, with role-based access for doctors and admins.",
-    tags: ["React.js", "Express.js", "Prisma", "MySQL"],
+    tags: ["Next.js","TypeScript", "Express.js", "Prisma", "MySQL"],
     status: "Live",
     image:
       "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Modern%20healthcare%20management%20dashboard%20web%20application%2C%20appointment%20calendar%20grid%2C%20patient%20record%20cards%2C%20doctor%20schedule%20panel%2C%20clean%20interface%20with%20teal%20accents%20on%20white%2C%20professional%20medical%20SaaS%20UI%20design%2C%20high%20fidelity&image_size=landscape_16_9",
@@ -31,7 +31,7 @@ export const projects: Project[] = [
     title: "Online Shopping Management",
     description:
       "An e-commerce back office for managing products, orders, and inventory, built on top of a REST API with a relational database.",
-    tags: ["Next.js", "TypeScript", "Prisma", "PostgreSQL"],
+    tags: ["Next.js","TypeScript", "Prisma", "PostgreSQL"],
     status: "Personal build",
     image:
       "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=E-commerce%20back%20office%20admin%20dashboard%2C%20product%20inventory%20table%2C%20sales%20revenue%20line%20chart%2C%20order%20status%20cards%2C%20dark%20interface%20with%20amber%20highlights%2C%20professional%20admin%20panel%20UI%20design%2C%20high%20fidelity&image_size=landscape_16_9",
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     title: "GearUp",
     description:
       "A lightweight equipment listing site where users can browse and post gear, focused on a fast, uncluttered browsing experience.",
-    tags: ["React.js", "Tailwind CSS", "MongoDB"],
+    tags: ["Next.js","TypeScript", "Tailwind CSS", "PostgreSQL","REST API","Express.js"],
     status: "Personal build",
     image:
       "https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Minimal%20marketplace%20website%20for%20outdoor%20gear%2C%20grid%20of%20product%20listing%20cards%20with%20camping%20equipment%20photos%2C%20price%20tags%2C%20clean%20light%20interface%2C%20modern%20web%20design%2C%20professional%20UI&image_size=landscape_16_9",
